@@ -9,10 +9,7 @@ You are owing a supermarket mall and through membership cards , you have some ba
 Problem Statement You own the mall and want to understand the customers like who can be easily converge [Target Customers] so that the sense can be given to marketing team and plan the strategy accordingly.
 
 <h1>Acknowledgements</h1>
-From Udemy's Machine Learning A-Z course.
-
-I am new to Data science field and want to share my knowledge to others
-
+CSV DATASET
 https://github.com/SteffiPeTaffy/machineLearningAZ/blob/master/Machine%20Learning%20A-Z%20Template%20Folder/Part%204%20-%20Clustering/Section%2025%20-%20Hierarchical%20Clustering/Mall_Customers.csv
 
 <h1>Inspiration</h1>
